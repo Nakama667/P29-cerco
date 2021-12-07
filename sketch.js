@@ -3,7 +3,7 @@ const World = Matter.World;
 const Bodies = Matter.Bodies;
 const Constraint = Matter.Constraint;
 
-var engine, world;
+var engine, world, body;
 var ground;
 var ball;
 var slab1, slab2;
